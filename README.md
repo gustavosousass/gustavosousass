@@ -12,21 +12,9 @@
 
 ### 👨‍💻 Sobre mim
 
-```java
-public class Gustavo {
+Estudante de Ciência da Computação (UFMA), com foco em desenvolvimento de software e análise de dados. Tenho interesse em construir soluções eficientes e trabalhar com dados para gerar valor e apoiar decisões.
 
-    String[] focus    = {"Software Development", "Data Analysis"};
-    String[] learning = {"Spring Boot", "React", "Machine Learning"};
-    String   location = "São Luís, Maranhão — Brazil 📍";
-    boolean  openToWork = true;
-
-    public String goal() {
-        return "Turning data into decisions and ideas into code.";
-    }
-}
-```
-
----
+Atualmente, estou me aprofundando em Data Analytics, com experiência em tratamento, análise e visualização de dados utilizando Excel e Power BI, além de conhecimentos em SQL para manipulação de dados.
 
 ### 🛠️ Tecnologias & Ferramentas
 

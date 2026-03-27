@@ -76,12 +76,3 @@ public class Gustavo {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4a9eff&height=80&section=footer" />
 </div>
-
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4a9eff&height=80&section=footer" />
-</div>
